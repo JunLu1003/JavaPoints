@@ -31,4 +31,5 @@
 ## mysql
 
 * [开篇](mysql/zhi-hang-liu-cheng.md)
+* [优化方案](mysql/you-hua-fang-an.md)
 
