@@ -32,7 +32,7 @@ SHOW GLOBAL VARIABLES LIKE 'query_cache_type';
 
 * OFF，关闭；
 * ON，开启；
-* DEMAND，按需缓存，即需要在sql语句中指定，如：`select sql_cache * from table_name where id` 
+* DEMAND，按需缓存，即需要在sql语句中指定，如：`select sql_cache * from table_name where id = 1;` 
 
 {% hint style="info" %}
 如果开启了缓存（在my.conf中配置，需要重启），任何一条对该表的更新操作都会将查询缓存清空。

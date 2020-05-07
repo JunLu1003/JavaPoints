@@ -4,9 +4,7 @@
 
 ## 基础
 
-* [开篇](ji-chu/untitled.md)
 * [Object](ji-chu/string.md)
-* [String、StringBuffer、StringBuilder](ji-chu/string-stringbuffer-stringbuilder.md)
 
 ## 并发
 
