@@ -5,6 +5,7 @@
 ## 基础
 
 * [开篇](ji-chu/untitled.md)
+* [String](ji-chu/string.md)
 
 ## 并发
 
