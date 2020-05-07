@@ -30,5 +30,5 @@
 
 ## mysql
 
-* [执行流程](mysql/zhi-hang-liu-cheng.md)
+* [开篇](mysql/zhi-hang-liu-cheng.md)
 
